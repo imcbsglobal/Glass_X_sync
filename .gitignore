@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Config files
+config.py
+.env
+
+# Logs
+*.log
+logs/
+
+# Build artifacts
+dist/
+build/
+*.spec
