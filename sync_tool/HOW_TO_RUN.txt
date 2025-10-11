@@ -1,0 +1,16 @@
+QUICK START GUIDE
+=================
+
+To run the sync:
+1. Double-click "GlassXSync.exe"
+   OR
+2. Double-click "sync.bat"
+
+The terminal will show:
+- Starting message
+- Tables being fetched
+- Upload progress
+- Success/failure status
+- Completion message
+
+The terminal will wait for you to press a key before closing.
